@@ -4,9 +4,22 @@
 
 <a href="https://github.com/Arthur-B-Moura" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 <a href="https://www.linkedin.com/in/arthur-b-moura/" target="_blank">
 <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+---
+
+**Languages:** Portuguese and English *(fluent)*; Spanish and French *(basic comprehension)*.
+
+**Basic Toolset:** Git, LaTeX, Docker, ROS 2
+
+**Programming Languages:** Python, Cpp, C, Shell
+
+
+---
 
 
 ### ⚙️ GitHub Analytics
