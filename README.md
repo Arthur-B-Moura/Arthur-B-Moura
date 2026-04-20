@@ -14,9 +14,9 @@
 
 **Languages:** Portuguese and English *(fluent)*; Spanish and French *(basic comprehension)*.
 
-**Basic Toolset:** Git, LaTeX, Docker, ROS 2
+**Basic Toolset:** Git, LaTeX, Docker, ROS 2, NODE-Red
 
-**Programming Languages:** Python, Cpp, C, Shell
+**Programming Languages:** Python, Cpp, C, Shell, Java Script, Lua
 
 
 ---
